@@ -1,3 +1,7 @@
+> **(폐기)** 이 레포는 폐기되었습니다. `joseki-korea/ai-trouble-log`(Orca/LLM/Agent/Supabase/Git/API 통합, 관계형 스키마, 대시보드)가 정본입니다.
+> 사유: 이 레포의 단일테이블(`issues`) 구조가 ai-trouble-log의 "Supabase" 카테고리와 스코프가 겹침 — 대표 지시(2026-08-19)로 통합.
+> 아래 내용은 기록 보존 목적으로 남겨둡니다.
+
 # Supabase Trouble Log
 
 Supabase를 운영하며 겪은 장애, 실수, 원인과 해결책을 재사용 가능한 형태로 기록하는 공개 저장소입니다.
